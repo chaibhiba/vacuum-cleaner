@@ -58,5 +58,18 @@ Flutter App:
    flutter pub get
    flutter run
 
+---
+
+👩‍💻 Author
+
+Chaib Hiba 
+Master’s student in Embedded Systems & mobility | Passionate about Robotics, Arduino, and Innovative Solutions  
+
+Under the supervision: Djelali Hayet 
+MCA at Badji Mokhtar University, Annaba, Department of computer since
+
+- LinkedIn: [linkedin.com/in/chaib-hiba-608922266](https://www.linkedin.com/in/chaib-hiba-608922266)  
+- GitHub: [github.com/chaibhiba](https://github.com/chaibhiba)  
+
 
 
